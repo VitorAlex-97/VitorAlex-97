@@ -1,6 +1,6 @@
 ## Olá, seja bem vindo(a) 😁
 
-- Sou um Desenvolvedor Web Java Jr. 💻
+- Sou um Desenvolvedor Web Jr. 💻
 - Estudante de Desenvolvimento de Sistemas 📚
 - Apaixonado por Ciência e Tecnologia ❤
 
